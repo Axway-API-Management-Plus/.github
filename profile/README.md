@@ -1,0 +1,1 @@
+All the projects are community supported and not supported by Axway Support. If you encounter any issues, please raise an issue on appropriate project.
